@@ -1,0 +1,1 @@
+This project is meant to serve as practice for working with API requests with the es6 async/await syntax, working with template literals and working on a MVC architecture by separating the UI code, API requests code and the controller code that handles calling the other classes. 
